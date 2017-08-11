@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+table.widefat tr:hover td, table.widefat tr:hover th { 
+ 	background: #FFFFCB ;
+}
+/*
+.wp-core-ui .button, .wp-core-ui .button-secondary , .wp-core-ui .button:hover, .wp-core-ui .button-secondary:hover {
+	background-color: #00a0d2;
+	color: #FFF;
+}
+*/
+.wrap .add-new-h2, .wrap .add-new-h2:active, .wrap .page-title-action, .wrap .page-title-action:active {
+	background-color: #0080ff;
+	color: #FFF;
+}
